@@ -1,12 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Harsha George
+
+Visit my Portfolio:https://portfolio-harshageorge.vercel.app/
+
+
+- 🔭 I’m currently working on developing my skills as a full stack developer.
+- 📫 How to reach me: 
+  - Linkedin:https://www.linkedin.com/in/harsha-george/
+  - Email:harshageorge4@gmail.com
+
+
 
 <!--
-**harshageorge/harshageorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on developing my skills as a full stack developer.
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
